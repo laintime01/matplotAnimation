@@ -1,0 +1,1 @@
+a fundamental data science skill-how to animate plots using Matplotlib in Python
